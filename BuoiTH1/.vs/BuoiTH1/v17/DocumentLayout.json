@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Z:\\hnh\\BuoiTH1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DB619F6-E4A5-4B87-BD2B-59BAF5D53CE6}|Bai6\\Bai6.csproj|z:\\hnh\\buoith1\\bai6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DB619F6-E4A5-4B87-BD2B-59BAF5D53CE6}|Bai6\\Bai6.csproj|solutionrelative:bai6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DB619F6-E4A5-4B87-BD2B-59BAF5D53CE6}|Bai6\\Bai6.csproj|z:\\hnh\\buoith1\\bai6\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DB619F6-E4A5-4B87-BD2B-59BAF5D53CE6}|Bai6\\Bai6.csproj|solutionrelative:bai6\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE34DB2A-95FA-4F01-A91E-4F2DE5D5BED3}|Bai5\\Bai5.csproj|z:\\hnh\\buoith1\\bai5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE34DB2A-95FA-4F01-A91E-4F2DE5D5BED3}|Bai5\\Bai5.csproj|solutionrelative:bai5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE34DB2A-95FA-4F01-A91E-4F2DE5D5BED3}|Bai5\\Bai5.csproj|z:\\hnh\\buoith1\\bai5\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE34DB2A-95FA-4F01-A91E-4F2DE5D5BED3}|Bai5\\Bai5.csproj|solutionrelative:bai5\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0847067-FC3A-4096-84E0-5D64C2BA50B1}|Bai4\\Bai4.csproj|z:\\hnh\\buoith1\\bai4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0847067-FC3A-4096-84E0-5D64C2BA50B1}|Bai4\\Bai4.csproj|solutionrelative:bai4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0847067-FC3A-4096-84E0-5D64C2BA50B1}|Bai4\\Bai4.csproj|z:\\hnh\\buoith1\\bai4\\mangsonguyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0847067-FC3A-4096-84E0-5D64C2BA50B1}|Bai4\\Bai4.csproj|solutionrelative:bai4\\mangsonguyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB29673-ECF0-48FB-ABA5-6A262687C505}|Bai3\\Bai3.csproj|z:\\hnh\\buoith1\\bai3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB29673-ECF0-48FB-ABA5-6A262687C505}|Bai3\\Bai3.csproj|solutionrelative:bai3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB29673-ECF0-48FB-ABA5-6A262687C505}|Bai3\\Bai3.csproj|z:\\hnh\\buoith1\\bai3\\giaithuan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB29673-ECF0-48FB-ABA5-6A262687C505}|Bai3\\Bai3.csproj|solutionrelative:bai3\\giaithuan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1226B3B6-F0F5-4F5A-B8AF-F7209AAFB7E9}|Bai2\\Bai2.csproj|z:\\hnh\\buoith1\\bai2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1226B3B6-F0F5-4F5A-B8AF-F7209AAFB7E9}|Bai2\\Bai2.csproj|solutionrelative:bai2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1226B3B6-F0F5-4F5A-B8AF-F7209AAFB7E9}|Bai2\\Bai2.csproj|z:\\hnh\\buoith1\\bai2\\timsolonnhat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1226B3B6-F0F5-4F5A-B8AF-F7209AAFB7E9}|Bai2\\Bai2.csproj|solutionrelative:bai2\\timsolonnhat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FCB2910-7C16-45EE-AB67-65D1B73F8F37}|BuoiTH1\\BuoiTH1.csproj|z:\\hnh\\buoith1\\buoith1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FCB2910-7C16-45EE-AB67-65D1B73F8F37}|BuoiTH1\\BuoiTH1.csproj|solutionrelative:buoith1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FCB2910-7C16-45EE-AB67-65D1B73F8F37}|BuoiTH1\\Bai1.csproj|z:\\hnh\\buoith1\\buoith1\\timsolonnhat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FCB2910-7C16-45EE-AB67-65D1B73F8F37}|BuoiTH1\\Bai1.csproj|solutionrelative:buoith1\\timsolonnhat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FCB2910-7C16-45EE-AB67-65D1B73F8F37}|BuoiTH1\\Bai1.csproj|z:\\hnh\\buoith1\\buoith1\\bai1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0FCB2910-7C16-45EE-AB67-65D1B73F8F37}|BuoiTH1\\Bai1.csproj|solutionrelative:buoith1\\bai1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "Z:\\hnh\\BuoiTH1\\Bai6\\Employee.cs",
+              "RelativeDocumentMoniker": "Bai6\\Employee.cs",
+              "ToolTip": "Z:\\hnh\\BuoiTH1\\Bai6\\Employee.cs",
+              "RelativeToolTip": "Bai6\\Employee.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAAwEIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T08:32:08.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Z:\\hnh\\BuoiTH1\\Bai6\\Program.cs",
+              "RelativeDocumentMoniker": "Bai6\\Program.cs",
+              "ToolTip": "Z:\\hnh\\BuoiTH1\\Bai6\\Program.cs",
+              "RelativeToolTip": "Bai6\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T08:31:00.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "Z:\\hnh\\BuoiTH1\\Bai5\\Student.cs",
+              "RelativeDocumentMoniker": "Bai5\\Student.cs",
+              "ToolTip": "Z:\\hnh\\BuoiTH1\\Bai5\\Student.cs",
+              "RelativeToolTip": "Bai5\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T08:16:52.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Z:\\hnh\\BuoiTH1\\Bai5\\Program.cs",
+              "RelativeDocumentMoniker": "Bai5\\Program.cs",
+              "ToolTip": "Z:\\hnh\\BuoiTH1\\Bai5\\Program.cs",
+              "RelativeToolTip": "Bai5\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T08:15:11.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MangSoNguyen.cs",
+              "DocumentMoniker": "Z:\\hnh\\BuoiTH1\\Bai4\\MangSoNguyen.cs",
+              "RelativeDocumentMoniker": "Bai4\\MangSoNguyen.cs",
+              "ToolTip": "Z:\\hnh\\BuoiTH1\\Bai4\\MangSoNguyen.cs",
+              "RelativeToolTip": "Bai4\\MangSoNguyen.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAwwC0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T07:46:55.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Z:\\hnh\\BuoiTH1\\Bai4\\Program.cs",
+              "RelativeDocumentMoniker": "Bai4\\Program.cs",
+              "ToolTip": "Z:\\hnh\\BuoiTH1\\Bai4\\Program.cs",
+              "RelativeToolTip": "Bai4\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBIAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T07:45:52.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GiaiThuaN.cs",
+              "DocumentMoniker": "Z:\\hnh\\BuoiTH1\\Bai3\\GiaiThuaN.cs",
+              "RelativeDocumentMoniker": "Bai3\\GiaiThuaN.cs",
+              "ToolTip": "Z:\\hnh\\BuoiTH1\\Bai3\\GiaiThuaN.cs",
+              "RelativeToolTip": "Bai3\\GiaiThuaN.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T07:44:20.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Z:\\hnh\\BuoiTH1\\Bai3\\Program.cs",
+              "RelativeDocumentMoniker": "Bai3\\Program.cs",
+              "ToolTip": "Z:\\hnh\\BuoiTH1\\Bai3\\Program.cs",
+              "RelativeToolTip": "Bai3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T07:43:32.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TimSoLonNhat.cs",
+              "DocumentMoniker": "Z:\\hnh\\BuoiTH1\\Bai2\\TimSoLonNhat.cs",
+              "RelativeDocumentMoniker": "Bai2\\TimSoLonNhat.cs",
+              "ToolTip": "Z:\\hnh\\BuoiTH1\\Bai2\\TimSoLonNhat.cs",
+              "RelativeToolTip": "Bai2\\TimSoLonNhat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T07:41:24.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Z:\\hnh\\BuoiTH1\\Bai2\\Program.cs",
+              "RelativeDocumentMoniker": "Bai2\\Program.cs",
+              "ToolTip": "Z:\\hnh\\BuoiTH1\\Bai2\\Program.cs",
+              "RelativeToolTip": "Bai2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T07:39:13.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TimSoLonNhat.cs",
+              "DocumentMoniker": "Z:\\hnh\\BuoiTH1\\BuoiTH1\\TimSoLonNhat.cs",
+              "RelativeDocumentMoniker": "BuoiTH1\\TimSoLonNhat.cs",
+              "ToolTip": "Z:\\hnh\\BuoiTH1\\BuoiTH1\\TimSoLonNhat.cs",
+              "RelativeToolTip": "BuoiTH1\\TimSoLonNhat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T07:38:00.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Bai1.csproj",
+              "DocumentMoniker": "Z:\\hnh\\BuoiTH1\\BuoiTH1\\Bai1.csproj",
+              "RelativeDocumentMoniker": "BuoiTH1\\Bai1.csproj",
+              "ToolTip": "Z:\\hnh\\BuoiTH1\\BuoiTH1\\Bai1.csproj",
+              "RelativeToolTip": "BuoiTH1\\Bai1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-04T07:36:39.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Z:\\hnh\\BuoiTH1\\BuoiTH1\\Program.cs",
+              "RelativeDocumentMoniker": "BuoiTH1\\Program.cs",
+              "ToolTip": "Z:\\hnh\\BuoiTH1\\BuoiTH1\\Program.cs",
+              "RelativeToolTip": "BuoiTH1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T07:36:04.264Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

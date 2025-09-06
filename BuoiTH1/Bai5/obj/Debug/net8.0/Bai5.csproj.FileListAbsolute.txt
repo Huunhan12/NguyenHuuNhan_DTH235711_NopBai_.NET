@@ -1,0 +1,14 @@
+Z:\hnh\BuoiTH1\Bai5\bin\Debug\net8.0\Bai5.exe
+Z:\hnh\BuoiTH1\Bai5\bin\Debug\net8.0\Bai5.deps.json
+Z:\hnh\BuoiTH1\Bai5\bin\Debug\net8.0\Bai5.runtimeconfig.json
+Z:\hnh\BuoiTH1\Bai5\bin\Debug\net8.0\Bai5.dll
+Z:\hnh\BuoiTH1\Bai5\bin\Debug\net8.0\Bai5.pdb
+Z:\hnh\BuoiTH1\Bai5\obj\Debug\net8.0\Bai5.GeneratedMSBuildEditorConfig.editorconfig
+Z:\hnh\BuoiTH1\Bai5\obj\Debug\net8.0\Bai5.AssemblyInfoInputs.cache
+Z:\hnh\BuoiTH1\Bai5\obj\Debug\net8.0\Bai5.AssemblyInfo.cs
+Z:\hnh\BuoiTH1\Bai5\obj\Debug\net8.0\Bai5.csproj.CoreCompileInputs.cache
+Z:\hnh\BuoiTH1\Bai5\obj\Debug\net8.0\Bai5.dll
+Z:\hnh\BuoiTH1\Bai5\obj\Debug\net8.0\refint\Bai5.dll
+Z:\hnh\BuoiTH1\Bai5\obj\Debug\net8.0\Bai5.pdb
+Z:\hnh\BuoiTH1\Bai5\obj\Debug\net8.0\Bai5.genruntimeconfig.cache
+Z:\hnh\BuoiTH1\Bai5\obj\Debug\net8.0\ref\Bai5.dll
