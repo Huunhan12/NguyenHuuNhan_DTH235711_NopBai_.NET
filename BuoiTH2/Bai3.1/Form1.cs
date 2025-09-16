@@ -41,7 +41,7 @@ namespace Bai3._1
             {
                 f = 7 * x;
             }
-            MessageBox.Show("Giá trị f(x) = "+ f.ToString());
+            txtf.Text = f.ToString();
         }
     }
 }
