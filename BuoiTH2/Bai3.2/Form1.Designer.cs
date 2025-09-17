@@ -82,7 +82,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label3);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Bai 3.2";
             this.ResumeLayout(false);
             this.PerformLayout();
 
