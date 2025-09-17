@@ -51,7 +51,7 @@
             // 
             // txtNgay
             // 
-            this.txtNgay.Location = new System.Drawing.Point(331, 147);
+            this.txtNgay.Location = new System.Drawing.Point(346, 147);
             this.txtNgay.Name = "txtNgay";
             this.txtNgay.Size = new System.Drawing.Size(176, 22);
             this.txtNgay.TabIndex = 59;
@@ -79,7 +79,7 @@
             // 
             // txtThang
             // 
-            this.txtThang.Location = new System.Drawing.Point(331, 186);
+            this.txtThang.Location = new System.Drawing.Point(346, 188);
             this.txtThang.Name = "txtThang";
             this.txtThang.Size = new System.Drawing.Size(176, 22);
             this.txtThang.TabIndex = 64;
@@ -96,7 +96,7 @@
             // 
             // txtNam
             // 
-            this.txtNam.Location = new System.Drawing.Point(331, 230);
+            this.txtNam.Location = new System.Drawing.Point(346, 228);
             this.txtNam.Name = "txtNam";
             this.txtNam.Size = new System.Drawing.Size(176, 22);
             this.txtNam.TabIndex = 66;
